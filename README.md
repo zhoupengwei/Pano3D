@@ -1,5 +1,6 @@
 # Pano3D
 
 ## License
-This project is released under the [Apache-2.0 license](http://www.apache.org/licenses/). See the [LICENSE](./LICENSE) file for details.
- 
+Pano3D source code is released under the [Apache-2.0 license](http://www.apache.org/licenses/). 
+Pano3D viewer software is under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+See [LICENSE-APACHE](./LICENSE-APACHE) and [LICENSE-CCBYNCSA4](./LICENSE-CCBYNCSA4) for details.
